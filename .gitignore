@@ -1,0 +1,9 @@
+# Ignore generated files and uploaded data
+outputs/
+uploads/
+__pycache__/
+*.pyc
+.env
+# IDE/editor files
+.vscode/
+.idea/
